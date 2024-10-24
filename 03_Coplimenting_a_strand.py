@@ -7,4 +7,4 @@ dna_sequence = Seq(text)
 reverse_complement = dna_sequence.reverse_complement()
 print(reverse_complement)
 
-# You can find solutions in easy way in https://github.com/Mylinear/Rosalind
+# For simple and easy solutions, visit https://github.com/Mylinear/Rosalind

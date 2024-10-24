@@ -8,4 +8,4 @@ with open('data/rosalind_rna.txt', 'r') as file:
 dna_sequence = Seq(text)
 rna_sequence = dna_sequence.transcribe()
 print(rna_sequence)
-# You can find solutions in easy way in https://github.com/Mylinear/Rosalind
+# For simple and easy solutions, visit https://github.com/Mylinear/Rosalind
